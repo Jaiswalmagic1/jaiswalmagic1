@@ -38,6 +38,12 @@
 </p>
 
 ---
+### 📈 My Latest Projects
+
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
+
+---
 
 ### 📈 Highlight Project
 
