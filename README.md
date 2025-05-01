@@ -44,6 +44,9 @@
 #### 📊 [Mobile Sales Dashboard – GitHub](https://github.com/Jaiswalmagic1/Mobile-Sales-Dashboard)
 An interactive Power BI dashboard with year-over-year comparisons, KPIs, and slicers for business analysis — built using real-world techniques for data storytelling.
 
+#### [Explore my Python Analysis Projects](https://github.com/Jaiswalmagic1/Python/)
+
+#### [Explore my PowerBI Projects](https://github.com/Jaiswalmagic1/Power-BI)
 ---
 
 ### 🏆 Achievements
