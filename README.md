@@ -52,6 +52,10 @@ An interactive Power BI dashboard with year-over-year comparisons, KPIs, and sli
 
 #### [Explore my work on SQL](https://github.com/Jaiswalmagic1/SQL)
 
+
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
+
 ---
 
 ### 🏆 Achievements
