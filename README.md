@@ -47,6 +47,9 @@ An interactive Power BI dashboard with year-over-year comparisons, KPIs, and sli
 #### 🍕 [Pizza Sales Dashboard](https://github.com/Jaiswalmagic1/Power-BI/tree/main/Pizza%20Sales%20Dashboard)
 An interactive dashboard in Power BI with KPI on total sales, total orders and best and worst performing pizza.
 
+#### [Blinkit Sales Performance Dashboard](https://github.com/Jaiswalmagic1/Power-BI/tree/main/Blinkit%20Sales%20Performance%20Dashboard)
+Built with end users in mind—allowing teams to explore sales KPIs, trends, and make data-driven decisions with ease.
+
 #### [Explore my Python Analysis Projects](https://github.com/Jaiswalmagic1/Python/)
 
 #### [Explore my PowerBI Projects](https://github.com/Jaiswalmagic1/Power-BI)
