@@ -43,12 +43,18 @@
 
 #### 📊 [Mobile Sales Dashboard – GitHub](https://github.com/Jaiswalmagic1/Mobile-Sales-Dashboard)
 An interactive Power BI dashboard with year-over-year comparisons, KPIs, and slicers for business analysis — built using real-world techniques for data storytelling.
+![image](https://github.com/user-attachments/assets/40c0edf9-3fcf-4eac-a9ed-394fddda8362)
+
 
 #### 🍕 [Pizza Sales Dashboard](https://github.com/Jaiswalmagic1/Power-BI/tree/main/Pizza%20Sales%20Dashboard)
 An interactive dashboard in Power BI with KPI on total sales, total orders and best and worst performing pizza.
+![image](https://github.com/user-attachments/assets/c6a4d170-6970-4742-8e02-88b55603772f)
+
 
 #### [Blinkit Sales Performance Dashboard](https://github.com/Jaiswalmagic1/Power-BI/tree/main/Blinkit%20Sales%20Performance%20Dashboard)
 Built with end users in mind—allowing teams to explore sales KPIs, trends, and make data-driven decisions with ease.
+![image](https://github.com/user-attachments/assets/53e9615a-b729-418c-a916-8c7ee108fead)
+
 
 #### [Explore my Python Analysis Projects](https://github.com/Jaiswalmagic1/Python/)
 
